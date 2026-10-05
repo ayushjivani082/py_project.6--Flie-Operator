@@ -8,7 +8,7 @@ Creat By : Ayush Jivani
 Language : Python
 
 
-explin video link :
+explin video link :https://drive.google.com/file/d/142FHiyVC5kMPQNeb3Br3n1WKGMeMrB2s/view?usp=drive_link
 
 
 repositories link :https://github.com/ayushjivani082/py_project.6--Flie-Operator/blob/896632d8cabc560a257507394abaededbf652232/6.Flie%20Operator.py
